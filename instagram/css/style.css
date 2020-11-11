@@ -1,0 +1,9 @@
+@import url("jkb__header.css");
+@import url("jkb__insta__main.css");
+@import url("jkb__profile__edit.css");
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
